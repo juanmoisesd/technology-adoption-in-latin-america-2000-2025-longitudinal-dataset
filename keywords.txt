@@ -1,0 +1,11 @@
+ai-adoption, cc0, dataset, digital-transformation, internet-penetration, latin-america, longitudinal-dataset, open-data, smartphone, technology-adoption, zenodo
+open-data
+dataset
+research
+science
+FAIR
+reproducibility
+open-science
+academic
+citation
+DOI

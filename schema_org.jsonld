@@ -1,0 +1,40 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Longitudinal dataset (2000-2025) on digital technology adoption indicators across 21 Latin American and Iberian countries. Variables: internet penetration, mobile subscriptions, smartphone adoption, social media usage, e-commerce, digital payments, A",
+  "description": "Longitudinal dataset (2000-2025) on digital technology adoption indicators across 21 Latin American and Iberian countries. Variables: internet penetration, mobile subscriptions, smartphone adoption, social media usage, e-commerce, digital payments, A",
+  "url": "https://github.com/juanmoisesd/technology-adoption-in-latin-america-2000-2025-longitudinal-dataset",
+  "sameAs": "https://juanmoisesd.github.io/technology-adoption-in-latin-america-2000-2025-longitudinal-dataset/",
+  "identifier": "https://github.com/juanmoisesd/technology-adoption-in-latin-america-2000-2025-longitudinal-dataset",
+  "author": {
+    "@type": "Person",
+    "name": "Juan Moisés de la Serna Tuya",
+    "@id": "https://orcid.org/0000-0002-8401-8018",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "Universidad Internacional de La Rioja (UNIR)"
+    },
+    "email": "juanmoises.delaserna@unir.net"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Universidad Internacional de La Rioja (UNIR)",
+    "url": "https://www.unir.net"
+  },
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "datePublished": "2026-03-20",
+  "dateModified": "2026-03-20",
+  "keywords": "ai-adoption, cc0, dataset, digital-transformation, internet-penetration, latin-america, longitudinal-dataset, open-data, smartphone, technology-adoption, zenodo",
+  "inLanguage": [
+    "es",
+    "en"
+  ],
+  "isAccessibleForFree": true,
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://github.com/juanmoisesd/technology-adoption-in-latin-america-2000-2025-longitudinal-dataset"
+    }
+  ]
+}

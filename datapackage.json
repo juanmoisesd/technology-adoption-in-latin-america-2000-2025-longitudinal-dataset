@@ -1,0 +1,41 @@
+{
+  "name": "technology-adoption-in-latin-america-2000-2025-longitudinal-dataset",
+  "title": "Longitudinal dataset (2000-2025) on digital technology adoption indicators across 21 Latin American and Iberian countries. Variables: internet penetration, mobile subscriptions, smartphone adoption, social media usage, e-commerce, digital payments, A",
+  "description": "Longitudinal dataset (2000-2025) on digital technology adoption indicators across 21 Latin American and Iberian countries. Variables: internet penetration, mobile subscriptions, smartphone adoption, social media usage, e-commerce, digital payments, A",
+  "version": "1.0.0",
+  "licenses": [
+    {
+      "name": "CC0-1.0",
+      "title": "CC0 1.0 Universal",
+      "path": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Juan Moisés de la Serna Tuya",
+      "path": "https://orcid.org/0000-0002-8401-8018",
+      "role": "author",
+      "organization": "Universidad Internacional de La Rioja (UNIR)"
+    }
+  ],
+  "keywords": [
+    "ai-adoption",
+    "cc0",
+    "dataset",
+    "digital-transformation",
+    "internet-penetration",
+    "latin-america",
+    "longitudinal-dataset",
+    "open-data",
+    "smartphone",
+    "technology-adoption",
+    "zenodo"
+  ],
+  "sources": [
+    {
+      "title": "Compiled from public sources",
+      "path": "https://github.com/juanmoisesd/technology-adoption-in-latin-america-2000-2025-longitudinal-dataset"
+    }
+  ],
+  "created": "2026-03-20"
+}

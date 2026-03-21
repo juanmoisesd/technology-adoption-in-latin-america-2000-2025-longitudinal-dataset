@@ -7,66 +7,38 @@
 
 ---
 
-*Definiciones originales en adopción tecnológica, ciberadicción, salud digital y transformación tecnológica en el contexto latinoamericano.*
+*Definiciones originales en adopción tecnológica, ciberadicción, salud digital y transformación tecnológica.*
 
 *Este glosario contiene definiciones originales propuestas por el autor en el contexto de esta base de datos. Las definiciones están disponibles en español e inglés para maximizar la difusión internacional. Si utilizas estas definiciones, por favor cita al autor (ver sección al final del documento).*
 
 ---
 
-## A
-
-**Adicción a Internet / Internet Addiction**
-Patrón de uso excesivo y desadaptativo de internet que genera deterioro significativo en el funcionamiento social, laboral, académico o familiar, caracterizado por preocupación excesiva, pérdida de control, tolerancia (necesidad de aumentar el tiempo de uso) y síntomas de abstinencia.
-*A pattern of excessive and maladaptive internet use generating significant impairment in social, occupational, academic, or family functioning, characterized by excessive preoccupation, loss of control, tolerance (need to increase use), and withdrawal symptoms.*
-*— De la Serna Tuya, J. M. (2025)*
-
 ## B
 
 **Brecha Digital / Digital Divide**
-Desigualdad en el acceso, uso y aprovechamiento de las tecnologías de la información y comunicación entre diferentes grupos poblacionales, condicionada por factores socioeconómicos, geográficos, generacionales y de género. La brecha digital es un factor de exclusión social y económica en la sociedad de la información.
-*Inequality in access, use, and benefit from information and communication technologies between different population groups, conditioned by socioeconomic, geographic, generational, and gender factors. The digital divide is a factor of social and economic exclusion in the information society.*
+Desigualdad en el acceso, uso y aprovechamiento de las TIC entre diferentes grupos poblacionales, condicionada por factores socioeconómicos, geográficos y generacionales. Es un factor de exclusión social en la sociedad de la información.
+*Inequality in access, use, and benefit from ICT between different population groups, conditioned by socioeconomic, geographic, and generational factors. A factor of social exclusion in the information society.*
 *— De la Serna Tuya, J. M. (2025)*
 
 ## C
 
 **Ciberadicción / Cyberaddiction**
-Dependencia conductual hacia el uso de plataformas o dispositivos digitales (redes sociales, videojuegos en línea, compras online, pornografía digital) que comparte mecanismos neurobiológicos con otras adicciones conductuales, incluyendo sensibilización del sistema dopaminérgico mesolímbico.
-*A behavioral dependence on the use of digital platforms or devices (social media, online games, online shopping, digital pornography) sharing neurobiological mechanisms with other behavioral addictions, including sensitization of the mesolimbic dopaminergic system.*
-*— De la Serna Tuya, J. M. (2025)*
-
-## G
-
-**Gobernanza Digital / Digital Governance**
-Marco normativo, institucional y técnico que regula el uso de tecnologías digitales en el sector público y privado, abarcando ciberseguridad, protección de datos personales, regulación de plataformas, neutralidad de red e inteligencia artificial.
-*A normative, institutional, and technical framework regulating the use of digital technologies in the public and private sectors, encompassing cybersecurity, personal data protection, platform regulation, net neutrality, and artificial intelligence governance.*
+Dependencia conductual hacia plataformas o dispositivos digitales (redes sociales, videojuegos, compras online) que comparte mecanismos neurobiológicos con otras adicciones conductuales, incluyendo sensibilización del sistema dopaminérgico.
+*A behavioral dependence on digital platforms or devices (social media, gaming, online shopping) sharing neurobiological mechanisms with other behavioral addictions, including dopaminergic sensitization.*
 *— De la Serna Tuya, J. M. (2025)*
 
 ## I
 
 **Incorporación Tecnológica / Technology Adoption**
-Proceso mediante el cual individuos, organizaciones o sociedades integran nuevas tecnologías en sus prácticas cotidianas, profesionales o productivas. Los modelos TAM (Technology Acceptance Model) y UTAUT identifican los factores determinantes de la adopción tecnológica.
-*The process by which individuals, organizations, or societies integrate new technologies into their daily, professional, or productive practices. The TAM (Technology Acceptance Model) and UTAUT models identify key determinants of technology adoption.*
-*— De la Serna Tuya, J. M. (2025)*
-
-## N
-
-**Nomofobia / Nomophobia**
-Fobia situacional caracterizada por el miedo irracional a estar sin teléfono móvil o sin cobertura, que genera ansiedad significativa, conductas de comprobación compulsiva del dispositivo e incapacidad para tolerar períodos breves de desconexión digital.
-*A situational phobia characterized by irrational fear of being without a mobile phone or connectivity, generating significant anxiety, compulsive device-checking behaviors, and inability to tolerate brief periods of digital disconnection.*
+Proceso por el cual individuos, organizaciones o sociedades integran nuevas tecnologías en sus prácticas. Los modelos TAM y UTAUT identifican los factores determinantes de la adopción tecnológica.
+*The process by which individuals, organizations, or societies integrate new technologies into their practices. TAM and UTAUT models identify key determinants of technology adoption.*
 *— De la Serna Tuya, J. M. (2025)*
 
 ## S
 
 **Salud Digital / Digital Health**
-Campo que integra tecnologías digitales (aplicaciones móviles, wearables, telemedicina, inteligencia artificial, big data sanitario) con la atención de la salud, para mejorar la prevención, el diagnóstico, el tratamiento y el automonitoreo de la salud.
-*A field integrating digital technologies (mobile applications, wearables, telemedicine, artificial intelligence, health big data) with healthcare to improve prevention, diagnosis, treatment, and health self-monitoring.*
-*— De la Serna Tuya, J. M. (2025)*
-
-## T
-
-**Transformación Digital / Digital Transformation**
-Proceso de integración profunda de tecnologías digitales en todas las áreas de una organización o sociedad, que implica cambios fundamentales en los modelos de negocio, los procesos operativos, la cultura organizacional y la propuesta de valor al ciudadano o cliente.
-*The process of deep integration of digital technologies into all areas of an organization or society, implying fundamental changes in business models, operational processes, organizational culture, and value proposition to citizens or customers.*
+Campo que integra tecnologías digitales (apps móviles, wearables, telemedicina, IA sanitaria) con la atención de la salud, para mejorar la prevención, el diagnóstico, el tratamiento y el automonitoreo.
+*A field integrating digital technologies (mobile apps, wearables, telemedicine, health AI) with healthcare to improve prevention, diagnosis, treatment, and self-monitoring.*
 *— De la Serna Tuya, J. M. (2025)*
 
 ---
